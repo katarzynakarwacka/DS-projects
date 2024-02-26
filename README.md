@@ -52,10 +52,8 @@ The DS-projects repository houses diverse data science projects, including Covid
 | 📄 | **Documentation** | The project features extensive documentation within Jupyter notebooks and README files, providing detailed explanations of data sources, analysis techniques, and visualization methods. Clear instructions and examples enhance understanding for both developers and users. |
 | 🔌 | **Integrations**  | Key integrations include Jupyter notebooks, Python libraries (e.g., pandas, matplotlib), and external data sources (e.g., CSV files). These dependencies enhance data processing capabilities and enable advanced analytical functionalities. |
 | 🧩 | **Modularity**    | The codebase demonstrates high modularity with distinct modules for different analysis tasks, enabling code reuse and scalability. Each analysis script or notebook focuses on a specific aspect, promoting maintainability and flexibility. |
-| 🧪 | **Testing**       | Testing frameworks such as pytest are utilized to ensure code reliability and functionality. Test scripts are incorporated within the project structure, validating data processing, statistical analysis, and visualization outcomes. |
 | ⚡️  | **Performance**   | The project emphasizes efficient data processing and visualization techniques, optimizing resource usage for faster analysis. Utilization of appropriate data structures and libraries contributes to speedy execution and responsive output generation. |
-| 🛡️ | **Security**      | Measures for data protection and access control include secure handling of external data sources, encryption for sensitive information, and user authentication for restricted content access. These security protocols safeguard the integrity and confidentiality of project data. |
-| 📦 | **Dependencies**  | Key external libraries and dependencies encompass Jupyter notebook, pandas, matplotlib, and other Python modules essential for data manipulation, analysis, and visualization tasks. These libraries enhance project capabilities and facilitate comprehensive data exploration. |
+
 
 ---
 
