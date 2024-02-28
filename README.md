@@ -47,7 +47,7 @@ The DS-projects repository houses diverse data science projects, including Covid
 
 |    |   Feature         | Description |
 |----|-------------------|---------------------------------------------------------------|
-| ⚙️  | **Architecture**  | The project architecture is modular, utilizing a combination of Jupyter notebooks and Python scripts for data analysis. It follows a clear structure with dedicated folders for different analysis tasks, ensuring easy navigation and maintenance. |
+| ⚙️  | **Architecture**  | The project architecture is modular, utilizing  Jupyter notebooks for data analysis. It follows a clear structure with dedicated folders for different analysis tasks, ensuring easy navigation and maintenance. |
 | 🔩 | **Code Quality**  | The codebase maintains high quality with well-commented sections, adhering to PEP 8 guidelines for Python code. Consistent variable naming conventions and structured code organization contribute to readability and maintainability. |
 | 📄 | **Documentation** | The project features extensive documentation within Jupyter notebooks and README files, providing detailed explanations of data sources, analysis techniques, and visualization methods. Clear instructions and examples enhance understanding for both developers and users. |
 | 🔌 | **Integrations**  | Key integrations include Jupyter notebooks, Python libraries (e.g., pandas, matplotlib), and external data sources (e.g., CSV files). These dependencies enhance data processing capabilities and enable advanced analytical functionalities. |
@@ -182,13 +182,7 @@ Use the following command to run DS-projects:
 jupyter nbconvert --execute notebook.ipynb
 ```
 
-###  Tests
 
-Use the following command to run tests:
-
-```sh
-pytest notebook_test.py
-```
 
 ---
 
